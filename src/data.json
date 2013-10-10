@@ -1,0 +1,234 @@
+[
+    {
+        "id": 0,
+        "isActive": false,
+        "balance": 1025.00,
+        "picture": "http://www.placekitten.com/50/50",
+        "age": 25,
+        "name": "Daisy Mcneil",
+        "gender": "female",
+        "company": "Verbus",
+        "email": "daisymcneil@verbus.com",
+        "phone": "+1 (936) 586-3983",
+        "address": "849 Newkirk Placez, Laurelton, Nevada, 1086",
+        "registered": "2012-07-15T13:46:25 +07:00",
+        "friends": [
+            {
+                "id": 0,
+                "name": "Debra Blair"
+            },
+            {
+                "id": 1,
+                "name": "Henry Avila"
+            },
+            {
+                "id": 2,
+                "name": "Jody Stark"
+            }
+        ],
+        "service": "cherry"
+    },
+    {
+        "id": 1,
+        "isActive": true,
+        "balance": -2884.00,
+        "picture": "http://www.placekitten.com/50/50",
+        "age": 23,
+        "name": "Schroeder Atkinson",
+        "gender": "male",
+        "company": "Twiggery",
+        "email": "schroederatkinson@twiggery.com",
+        "phone": "+1 (861) 449-2254",
+        "address": "259 Highland Avenue, Riner, Vermont, 905",
+        "registered": "1998-01-17T08:16:34 +08:00",
+        "friends": [
+            {
+                "id": 0,
+                "name": "Mendoza Figueroa"
+            },
+            {
+                "id": 1,
+                "name": "Lenore Morales"
+            },
+            {
+                "id": 2,
+                "name": "Winifred Bowen"
+            }
+        ],
+        "service": "lemon"
+    },
+    {
+        "id": 2,
+        "isActive": true,
+        "balance": 3094.00,
+        "picture": "http://www.placekitten.com/50/50",
+        "age": 32,
+        "name": "Odessa Mcfadden",
+        "gender": "female",
+        "company": "Rubadub",
+        "email": "odessamcfadden@rubadub.com",
+        "phone": "+1 (848) 423-2155",
+        "address": "171 Revere Place, Marienthal, Rhode Island, 4184",
+        "registered": "2006-03-07T10:15:08 +08:00",
+        "friends": [
+            {
+                "id": 0,
+                "name": "Nora Hyde"
+            },
+            {
+                "id": 1,
+                "name": "Mia Quinn"
+            },
+            {
+                "id": 2,
+                "name": "Workman Grimes"
+            }
+        ],
+        "service": "lemon"
+    },
+    {
+        "id": 3,
+        "isActive": true,
+        "balance": 3310.00,
+        "picture": "http://www.placekitten.com/50/50",
+        "age": 30,
+        "name": "Harrell Adkins",
+        "gender": "male",
+        "company": "Eweville",
+        "email": "harrelladkins@eweville.com",
+        "phone": "+1 (934) 422-2785",
+        "address": "321 Applegate Court, Florence, Kansas, 4951",
+        "registered": "2004-08-01T15:26:47 +07:00",
+        "friends": [
+            {
+                "id": 0,
+                "name": "Cheri Briggs"
+            },
+            {
+                "id": 1,
+                "name": "Donaldson Rose"
+            },
+            {
+                "id": 2,
+                "name": "Arnold Bender"
+            }
+        ],
+        "service": "apple"
+    },
+    {
+        "id": 4,
+        "isActive": false,
+        "balance": 3318.00,
+        "picture": "http://www.placekitten.com/50/50",
+        "age": 25,
+        "name": "Kline Talley",
+        "gender": "male",
+        "company": "Maxemia",
+        "email": "klinetalley@maxemia.com",
+        "phone": "+1 (947) 446-3289",
+        "address": "489 Irwin Street, Russellville, Massachusetts, 7069",
+        "registered": "1998-09-24T16:02:48 +07:00",
+        "friends": [
+            {
+                "id": 0,
+                "name": "Augusta Mendoza"
+            },
+            {
+                "id": 1,
+                "name": "Tanya Sharpe"
+            },
+            {
+                "id": 2,
+                "name": "Solis Sweeney"
+            }
+        ],
+        "service": "cherry"
+    },
+    {
+        "id": 5,
+        "isActive": true,
+        "balance": -1499.00,
+        "picture": "http://www.placekitten.com/50/50",
+        "age": 27,
+        "name": "Schmidt Whitney",
+        "gender": "male",
+        "company": "Savvy",
+        "email": "schmidtwhitney@savvy.com",
+        "phone": "+1 (905) 576-2899",
+        "address": "336 Wyckoff Street, Chesapeake, Idaho, 4768",
+        "registered": "2013-07-30T23:48:04 +07:00",
+        "friends": [
+            {
+                "id": 0,
+                "name": "Blankenship Bentley"
+            },
+            {
+                "id": 1,
+                "name": "Fletcher Raymond"
+            },
+            {
+                "id": 2,
+                "name": "Tammi Gutierrez"
+            }
+        ],
+        "service": "cherry"
+    },
+    {
+        "id": 6,
+        "isActive": false,
+        "balance": 1816.00,
+        "picture": "http://www.placekitten.com/50/50",
+        "age": 22,
+        "name": "Jackson Hudson",
+        "gender": "male",
+        "company": "Zaj",
+        "email": "jacksonhudson@zaj.com",
+        "phone": "+1 (881) 514-3664",
+        "address": "978 Dahl Court, Hinsdale, Oregon, 8641",
+        "registered": "2007-07-25T18:09:59 +07:00",
+        "friends": [
+            {
+                "id": 0,
+                "name": "Heidi Tucker"
+            },
+            {
+                "id": 1,
+                "name": "Marguerite Myers"
+            },
+            {
+                "id": 2,
+                "name": "Vicki Jacobs"
+            }
+        ],
+        "service": "apple"
+    },
+    {
+        "id": 7,
+        "isActive": false,
+        "balance": -1390.00,
+        "picture": "http://www.placekitten.com/50/50",
+        "age": 31,
+        "name": "Meadows Gordon",
+        "gender": "male",
+        "company": "Temorak",
+        "email": "meadowsgordon@temorak.com",
+        "phone": "+1 (918) 481-3724",
+        "address": "964 Albemarle Terrace, Highland, New Hampshire, 141",
+        "registered": "1999-10-07T23:29:05 +07:00",
+        "friends": [
+            {
+                "id": 0,
+                "name": "Willie Mills"
+            },
+            {
+                "id": 1,
+                "name": "Mcleod Martin"
+            },
+            {
+                "id": 2,
+                "name": "Lawson Ramirez"
+            }
+        ],
+        "service": "lemon"
+    }
+]
